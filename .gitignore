@@ -1,0 +1,14 @@
+# Spring Boot build output
+/dining-review-api/target/
+
+# Application properties with sensitive data
+/dining-review-api/src/main/resources/application.properties
+
+# Log files
+/dining-review-api/logs/
+/dining-review-api/log/
+/dining-review-api/*.log
+
+# IDE files (optional)
+/dining-review-api/.idea/
+/dining-review-api/.vscode/
